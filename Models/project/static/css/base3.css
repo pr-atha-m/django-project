@@ -1,0 +1,45 @@
+
+
+body{
+background-color: #DDFFFF;
+
+}
+
+
+h2{
+text-align: 45%;
+padding:20px;
+}
+
+
+.sign{
+font-size:40px;
+margin-left:40%;
+padding:20px;
+color: crimson;
+}
+
+h1{
+color:red;
+margin-left:30px;
+}
+
+
+button a{
+color:white;
+text-decoration:none;
+}
+
+img{
+margin-left:25px;
+border-radius:50%;
+}
+
+.form{
+margin-left: 30%;
+
+}
+
+.login-form{
+text-align:center;
+}
