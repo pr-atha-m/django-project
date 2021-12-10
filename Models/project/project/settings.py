@@ -32,7 +32,7 @@ SECRET_KEY = 'django-insecure-qp_b_9#(3_fqzb20%+2!!&iz4fuk$i+mc$(xb6vn6zk77)mv4m
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['greninja.pythonanywhere.com']
 
 
 # Application definition
